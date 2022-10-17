@@ -9,4 +9,10 @@
  
 - October 24: A report of your findings in the previous weeks. 
  
-- October 31: An improved report. This report will be submitted to LLU so we can get their feedback. According to their feedback we’re going to plan for next month. 
+- October 31: An improved report. This report will be submitted to LLU so we can get their feedback. According to their feedback we’re going to plan for next month.
+
+## Reports
+- October 17, 2022
+    - Clean up the data to include only the major elements
+    - Possibly run K-means on that cleaned up data
+    - (Maybe) Create a map of the major elements using GIS data?
