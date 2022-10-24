@@ -16,3 +16,8 @@
     - Clean up the data to include only the major elements
     - Possibly run K-means on that cleaned up data
     - (Maybe) Create a map of the major elements using GIS data?
+
+- October 24, 2022
+    - Create a document to include results based on 5 principal components (Send to Loma Linda University)
+        - Sections such as PC1 vs PC2, PC1 vs PC2, etc.
+    - Use scikit learn, run data through data classification model
