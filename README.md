@@ -21,3 +21,9 @@
     - Create a document to include results based on 5 principal components (Send to Loma Linda University)
         - Sections such as PC1 vs PC2, PC1 vs PC2, etc.
     - Use scikit learn, run data through data classification model
+
+- November 14, 2022
+    - Create a document
+        - Include PCA results
+        - Include summary report of decision trees
+            - What classes should be used?
