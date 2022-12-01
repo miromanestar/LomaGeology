@@ -27,3 +27,10 @@
         - Include PCA results
         - Include summary report of decision trees
             - What classes should be used?
+
+- November 30, 2022
+    - Separate samples by class
+        - Run PCA analysis on each class individually
+        - Group classes by similarity to discover which ones might be candidates for aggregation
+        - Hopefully, grouping similar classes should result in more accurate decision trees with fewer classes
+        - Maybe do a GIS overlay?
