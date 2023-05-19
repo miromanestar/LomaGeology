@@ -1,6 +1,6 @@
 # Comparing Igneous Geochemical Data from Hawaii and Southern California via Machine Learning
 
-## Miro I. Manestar , Germán H. Alférez, Benjamin L. Clausen
+### Miro I. Manestar , Germán H. Alférez, Benjamin L. Clausen
 
 :school: School of Computing, Southern Adventist University, PO Box 370, Collegedale, TN, 37315, USA.
 
